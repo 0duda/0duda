@@ -11,7 +11,8 @@ I'm currently in my 3rd year of **BSc in Artificial Intelligence and Data Scienc
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0duda&layout=compact&theme=tokyonight)
 
 
-*Feel free to check out my repositories and connect with me!*
+
+Feel free to check out my repositories and connect with me!
 
 
 <!--
