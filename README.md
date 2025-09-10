@@ -7,8 +7,11 @@ I'm currently in my 3rd year of **BSc in Artificial Intelligence and Data Scienc
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0duda&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0duda&layout=compact&theme=tokyonight)
+
+
+*Feel free to check out my repositories and connect with me!*
 
 
 <!--
