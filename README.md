@@ -1,8 +1,8 @@
-## 👋 Hi there!
+## Hi there!
 
 I'm **Eduarda** and I'm from Porto.  
 
-I'm currently in my 3rd year of **BSc in Artificial Intelligence and Data Science** – [Faculdade de Ciências da Universidade do Porto](https://www.up.pt/portal/pt/fcup/).
+I'm currently in my 1st year of **MSc in Artificial Intelligence** – [Faculdade de Ciências da Universidade do Porto](https://www.up.pt/portal/pt/fcup/).
 
 Feel free to check out my repositories and connect with me!
 
